@@ -3,7 +3,8 @@
     width: 800px;
     height:100px;
     margin-bottom:10px;
-    display:flex
+    display:flex;
+    flex-wrap:wrap
 }
 #block-blue, #block-purple{
     width:40px;
