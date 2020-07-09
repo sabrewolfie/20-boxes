@@ -2,5 +2,10 @@
     border:2px solid blue;
     width: 800px;
     height:100px;
-    margin-bottom:10px
+    margin-bottom:10px;
+    display:flex
+}
+#block-blue, #block-purple{
+    width:40px;
+    height:40px
 }
